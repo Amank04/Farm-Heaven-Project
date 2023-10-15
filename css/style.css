@@ -13,6 +13,11 @@
     transition: .5s;
 }
 
+.login, .register {
+    border-radius: 7%;
+    margin: 5px;
+}
+
 .btn-primary,
 .btn-secondary {
     color: #FFFFFF;
